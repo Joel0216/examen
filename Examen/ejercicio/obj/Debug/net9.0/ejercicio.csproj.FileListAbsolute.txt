@@ -1,0 +1,4 @@
+c:\Users\denic\Downloads\Examen\ejercicio\obj\Debug\net9.0\ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\denic\Downloads\Examen\ejercicio\obj\Debug\net9.0\ejercicio.AssemblyInfoInputs.cache
+c:\Users\denic\Downloads\Examen\ejercicio\obj\Debug\net9.0\ejercicio.AssemblyInfo.cs
+c:\Users\denic\Downloads\Examen\ejercicio\obj\Debug\net9.0\ejercicio.csproj.CoreCompileInputs.cache
